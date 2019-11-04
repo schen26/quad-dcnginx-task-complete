@@ -8,6 +8,7 @@ services:
 
 
     client:
+    
       environment:
       - REACT_APP_SERVICE_HOST=${REACT_APP_SERVICE_HOST}
     
