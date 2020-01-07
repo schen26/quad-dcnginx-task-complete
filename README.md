@@ -2,3 +2,4 @@
 
 1. Ensure the nginx.conf is configured properly
 2. Configure the docker-compose.yaml
+# quad-dcnginx-task-complete
